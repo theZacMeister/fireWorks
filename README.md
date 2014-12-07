@@ -1,11 +1,10 @@
 fireWorks
 =========
-
 A 2D, Cross Platform, Open Source C++ Game Library.
 
 fireWorks is built on these great libraries:
 
-- <a href="http://opengl.org"> OpenGL: A Cross Platform, Common, Graphics Library
+- <a href="http://libsdl.org"> SDL: A Cross Platform, Common, Graphics Library
 - <a href="http://www.box2d.org"> Box2D: A 2D Physics Library
 - <a href="http://icculus.org/physfs/"> PhysFS: An Advanced File Library
 - <a href="https://github.com/jeremyong/Selene"> Selene: A Lua-C++ Header Only Binder
